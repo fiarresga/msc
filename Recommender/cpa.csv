@@ -1,0 +1,726 @@
+Type,SAC,MET, Description,Keyword
+Bicycling,1003,14,"Bicycling, mountain, uphill, vigorous",Mountain
+Bicycling,1004,16,"Bicycling, mountain, competitive racing",Mountain
+Bicycling,1008,9,"Bicycling, BMX",Mountain
+Bicycling,1009,9,"Bicycling, mountain, general",Mountain
+Bicycling,1010,4,"Bicycling, <10 mph, leisure, to work or for pleasure (Taylor Code 115)",Urban
+Bicycling,1011,7,"Bicycling, to/from work, self selected pace",Urban
+Bicycling,1013,6,"Bicycling, on dirt or farm road, moderate pace",Urban
+Bicycling,1014,7,"Bicycling, general",Urban
+Bicycling,1015,4,"Bicycling, self-selected easy pace",Urban
+Bicycling,1016,7,"Bicycling, self-selected moderate pace",Urban
+Bicycling,1017,9,"Bicycling, self-selected vigorous pace",Urban
+Bicycling,1018,4,"Bicycling, leisure 5,5 mph",Urban
+Bicycling,1019,6,"Bicycling, leisure, 9,4 mph",Urban
+Bicycling,1020,7,"Bicycling, 10-11,9 mph, leisure, slow, light effort",Urban
+Bicycling,1030,8,"Bicycling, 12-13,9 mph, leisure, moderate effort",Urban
+Bicycling,1040,10,"Bicycling, 14-15,9 mph, racing or leisure, fast, vigorous effort",Urban
+Bicycling,1050,12,"Bicycling, 16-19 mph, racing/not drafting or >19 mph drafting, very fast, racing general",Urban
+Bicycling,1060,17,"Bicycling, >20 mph, racing, not drafting",Urban
+Bicycling,1065,9,"Bicycling, 12 mph, seated, hands on brake hoods or bar drops, 80 rpm",Urban
+Bicycling,1066,9,"Bicycling, 12 mph, standing, hands on brake hoods, 60 rpm",Urban
+Bicycling,1070,5,Unicycling,Urban
+Bicycling,1080,7,E-bike (electrically assisted) without electronic support,Electric
+Bicycling,1084,6,E-bike (electrically assisted) with light electronic support,Electric
+Bicycling,1088,4,E-bike (electrically assisted) with high electronic support,Electric
+Bicycling,1200,7,"Bicycling, stationary, general",Indoor
+Bicycling,1210,4,"Bicycling, stationary, 25-30 watts, very light to light effort",Indoor
+Bicycling,1214,4,"Bicycling, stationary, 50 watts, light effort",Indoor
+Bicycling,1216,5,"Bicycling, stationary, 60 watts, light to moderate effort",Indoor
+Bicycling,1218,6,"Bicycling, stationary, 70-80 watts",Indoor
+Bicycling,1220,6,"Bicycling, stationary, 90-100 watts,  moderate to vigorous",Indoor
+Bicycling,1224,7,"Bicycling, stationary, 101-125 watts",Indoor
+Bicycling,1228,8,"Bicycling, stationary, 126-150 watts",Indoor
+Bicycling,1232,10,"Bicycling, stationary, 151-199 watts",Indoor
+Bicycling,1236,11,"Bicycling, stationary, 200-229 watts, vigorous",Indoor
+Bicycling,1240,13,"Bicycling, stationary, 230-250 watts, very vigorous",Indoor
+Bicycling,1244,14,"Bicycling, stationary, 270-305 watts, very vigorous",Indoor
+Bicycling,1248,16,"Bicycling, stationary, >325 watts, very vigorous",Indoor
+Bicycling,1252,6,"Bicycling, concentric only, 100 W",Indoor
+Bicycling,1254,11,"Bicycling, concentric only, 200 W",Indoor
+Bicycling,1262,2,"Bicycling, eccentric only, 100 to 149 W",Indoor
+Bicycling,1264,4,"Bicycling, eccentric only, 200 W",Indoor
+Bicycling,1270,9,"Bicycling, stationary, RPM/Spin bike class",Indoor
+Bicycling,1290,9,"Bicycling, interactive virtual cycling, indoor cycle ergometer",Indoor
+Bicycling,1305,9,"Bicycling, high intensity interval training",Indoor
+Conditioning Exercises,2000,7,"Aerobic, general",Aerobic
+Conditioning Exercises,2001,6,"Aerobic, step, with 4-inch step",Aerobic
+Conditioning Exercises,2002,7,"Aerobic, step, with 6 – 8 inch step",Aerobic
+Conditioning Exercises,2003,9,"Aerobic, step, with 10 – 12 inch step",Aerobic
+Conditioning Exercises,2004,8,"Bench step class, general",Step
+Conditioning Exercises,2005,5,"Aerobic dance, low impact, moderate effort",Aerobic
+Conditioning Exercises,2006,8,"Aerobic dance, high impact, vigorous effort",Aerobic
+Conditioning Exercises,2007,10,Aerobic dance wearing 10-15 lb weights,Aerobic
+Conditioning Exercises,2008,5,"Army type obstacle course exercise, boot camp training program",Obstacle
+Conditioning Exercises,2020,8,"Calisthenics (e,g,, pushups, sit ups, pull-ups, jumping jacks, burpees, battling ropes), vigorous effort",Calisthenics
+Conditioning Exercises,2022,4,"Calisthenics (e,g,, pushups, sit ups, pull-ups, lunges), moderate effort",Calisthenics
+Conditioning Exercises,2024,3,"Calisthenics (e,g,, curl ups, abdominal crunches, plank),  light effort",Calisthenics
+Conditioning Exercises,2030,4,"Calisthenics, light or moderate effort, general (e,g,, back exercises), going up & down from floor (Taylor Code 150)",Calisthenics
+Conditioning Exercises,2032,6,"Circuit training, body weight exercises",Circuit Training
+Conditioning Exercises,2034,4,"Circuit training, light effort",Circuit Training
+Conditioning Exercises,2035,5,"Circuit training, moderate effort",Circuit Training
+Conditioning Exercises,2040,8,"Circuit training, including kettlebells, some aerobic movement with minimal rest, general, vigorous intensity",Circuit Training
+Conditioning Exercises,2045,4,Curves™ exercise routines in women,Circuit Training
+Conditioning Exercises,2048,5,"Elliptical trainer, moderate effort",Elliptical
+Conditioning Exercises,2049,9,"Elliptical trainer, vigorous effort",Elliptical
+Conditioning Exercises,2050,6,"Resistance (weight lifting – free weight, nautilus or universal-type), power lifting or body building, vigorous effort (Taylor Code 210)",Resistance
+Conditioning Exercises,2052,5,"Resistance (weight) training, squats, deadlift, slow or explosive effort",Resistance
+Conditioning Exercises,2054,4,"Resistance (weight) training, multiple exercises, 8-15 reps at varied resistance",Resistance
+Conditioning Exercises,2055,6,"Resistance Training, circuit, reciprocal supersets, peripheral hear action training",Resistance
+Conditioning Exercises,2056,3,"Body weight resistance exercises (e,g,, squat, lunge, push-up, crunch), general",Resistance
+Conditioning Exercises,2057,7,"Body weight resistance exercises (e,g,, squat, lunge, push-up, crunch), high intensity",Resistance
+Conditioning Exercises,2058,10,Kettle bell swings,Resistance
+Conditioning Exercises,2060,6,"Health club exercise, general (Taylor Code 160)",General
+Conditioning Exercises,2061,5,"Health club exercise classes general, gym/weight training combined in one visit",General
+Conditioning Exercises,2062,8,"Health club exercise, conditioning classes",General
+Conditioning Exercises,2064,4,"Home exercise, general",General
+Conditioning Exercises,2065,9,"Stair treadmill ergometer, general",General
+Conditioning Exercises,2068,11,"Rope skipping exercise, general",Rope
+Conditioning Exercises,2069,9,"Jumping rope, Digi-Jump Machine, 120 jumps/minute",Rope
+Conditioning Exercises,2070,7,"Rowing, stationary ergometer, general, vigorous effort",Rowing
+Conditioning Exercises,2071,5,"Rowing, stationary ergometer, general, <100 watts,  moderate effort",Rowing
+Conditioning Exercises,2072,8,"Rowing, stationary, 100 to 149 watts, vigorous effort",Rowing
+Conditioning Exercises,2073,11,"Rowing, stationary, 150 to 199 watts, vigorous effort",Rowing
+Conditioning Exercises,2074,14,"Rowing, stationary, ≥ 200 watts, very vigorous effort",Rowing
+Conditioning Exercises,2078,11,"Shuttle running, forward/backward/lateral",Shuttle
+Conditioning Exercises,2080,7,"Ski machine, general",Ski
+Conditioning Exercises,2082,11,"Ski ergometer, cross country, double poling, slow to moderate speed",Ski
+Conditioning Exercises,2084,18,"Ski ergometer, cross country, double poling, fast to maximum speed",Ski
+Conditioning Exercises,2085,11,"Slide board exercise, general",Flexibility
+Conditioning Exercises,2090,6,"Slimnastics, jazzercise",Flexibility
+Conditioning Exercises,2101,2,"Stretching, mild",Flexibility
+Conditioning Exercises,2103,2,"Pilates, traditional, mat",Flexibility
+Conditioning Exercises,2105,3,"Pilates, general",Flexibility
+Conditioning Exercises,2107,9,"Pound, combination of Pilates and body movements with drumming",Flexibility
+Conditioning Exercises,2108,5,"Pole dancing, exercise class",Flexibility
+Conditioning Exercises,2110,7,"Teaching exercise classes (e,g,, aerobic, water)",General
+Conditioning Exercises,2112,3,"Therapeutic exercise ball, Fitball exercise",General
+Conditioning Exercises,2114,10,"Therapeutic exercise ball, Fitball exercise, high intensity",General
+Conditioning Exercises,2115,3,"Upper body exercise, arm ergometer, general, light",General
+Conditioning Exercises,2116,2,"Arm Ergometer, hand bike, 15W",General
+Conditioning Exercises,2117,3,"Arm Ergometer, hand bike, 25-30W",General
+Conditioning Exercises,2118,4,"Arm Ergometer, hand bike, 45W",General
+Conditioning Exercises,2119,4,"Upper body exercise, stationary bicycle – Airdyne (arms only) 40 rpm, moderate intensity",General
+Conditioning Exercises,2120,5,"Water aerobics, water calisthenics, water exercise",General
+Conditioning Exercises,2135,1,"Whirlpool, sitting",General
+Conditioning Exercises,2140,3,"Video, exercise workouts, TV conditioning programs (e,g,, yoga, stretching, seated), light effort",General
+Conditioning Exercises,2143,4,"Video, exercise workouts, TV conditioning programs (e,g,, cardio-resistance training), moderate",General
+Conditioning Exercises,2145,6,"Video, exercise workouts, TV conditioning programs (e,g,, cardio-resistance training), vigorous",General
+Conditioning Exercises,2150,2,"Yoga, Hatha",Yoga
+Conditioning Exercises,2153,8,"Yoga, Hatha, high intensity",Yoga
+Conditioning Exercises,2155,3,"Yoga, Hot",Yoga
+Conditioning Exercises,2160,4,"Yoga, Power",Yoga
+Conditioning Exercises,2170,2,"Yoga, Nadisodhana",Yoga
+Conditioning Exercises,2175,2,"Yoga, General",Yoga
+Conditioning Exercises,2180,4,"Yoga, Surya Namaskar",Yoga
+Conditioning Exercises,2185,3,"Yoga, Vinyasa",Yoga
+Conditioning Exercises,2200,5,"Native New Zealander PA, (e,g,, Haka Powhiri, Poi, Moteatea, etc,), general moderate effort",General
+Conditioning Exercises,2205,7,"Native New Zealander PA, general, vigorous effort",General
+Conditioning Exercises,2210,7,"High intensity interval exercise,  moderate effort",General
+Conditioning Exercises,2214,11,"High intensity interval exercise,  burpees, mountain climbers, squat jumps, Tabata, vigorous effort",General
+Conditioning Exercises,2225,2,"Balance Exercise Assist Robot (BEAR), simulated skiing, tennis, rodeo",General
+Conditioning Exercises,2230,6,Hooping (formerly known as hula® hooping),General
+Conditioning Exercises,2240,9,"Impulse Training System, Inertial Exercise Trainer",General
+Conditioning Exercises,2280,8,"Virtual Reality Fitness,  Supernatural™ “Flow”, “Boxing” vigorous intensity",General
+Conditioning Exercises,2284,9,"ExerCube, workout series",General
+Conditioning Exercises,2288,13,"Blackbox Immersive virtual reality exergaming system, vigorous intensity",General
+Conditioning Exercises,2300,3,"Wand exercise, Life-Build-Line",General
+Conditioning Exercises,2310,7,"Zumba, group class",General
+Conditioning Exercises,2315,6,"Zumba, home video",General
+Conditioning Exercises,2340,3,"Sit to stand exercise, 6-12 times/min",General
+Conditioning Exercises,2344,4,"Sit to stand exercise, 18-24 times/min",General
+Dancing,3005,6,"Afro-Cuban salsa (Cuban cha-cha-cha, mambo, Afro rumba, contratiempo son steps, orisha/santo movements)",Salsa
+Dancing,3010,5,"Ballet, modern, or jazz general, rehearsal or class",Ballet
+Dancing,3011,6,"Ballet exercises (plie, tendus, jetes, rond de Jambes, fondus, grand battement, grand adage, sautes, temp Leve’s)",Ballet
+Dancing,3012,7,"Ballet, modern, or jazz, performance, vigorous effort",Ballet
+Dancing,3014,5,Tap,Ballet
+Dancing,3025,5,"Ethnic or cultural dancing (e,g, Greek, Middle Eastern, hula, salsa, merengue, bamba y plena,  flamenco, belly, and swing)",Ethnic
+Dancing,3028,6,"Chinese square dance, Ballet & Tibetan dance",Ethnic
+Dancing,3029,7,"Chinese square dance, aerobic dance",Ethnic
+Dancing,3030,6,"Ballroom dancing, fast (Taylor Code 125)",Ballroom
+Dancing,3031,10,"Nightclub or folk dancing, vigorous effort (e,g,, nightclub, disco, folk, line dancing, Irish step dancing, polka, contra)",Nightclub
+Dancing,3033,5,"Folk dancing, moderate effort",Folk
+Dancing,3038,11,"Ballroom dancing, competitive, general",Ballroom
+Dancing,3039,13,"Ballroom dance, DanceSport competition (modern waltz, tango, Viennese waltz, slow fox, quick step, samba, chacha, rumba, paso doble, jive)",Ballroom
+Dancing,3040,3,"Ballroom, slow, examples: waltz, foxtrot, slow dancing, samba tango, rumba, 19th century dance, mambo, cha cha",Ballroom
+Dancing,3042,6,"Ballroom Dance, Recreational (Waltz, Foxtrot, Cha-cha, Swing)",Ballroom
+Dancing,3050,6,"Anishinaabe Jingle dancing, brisk pace, other traditional American Indian dancing performed by women, moderate effort",Ethnic
+Dancing,3060,4,"Caribbean dance (Abakua, Beguine, Bellair, Bongo, Brukin’s, Caribbean Quadrills, Dinki  Mini, Gere, Gumbay, Ibo, Jonkonnu, Kumina,  Oreisha, Jambu)",Ethnic
+Dancing,3070,4,"Contemporary dancing, general",Contemporary
+Dancing,3072,4,"Contemporary dancing, nightclub",Contemporary
+Dancing,3075,9,Flamenco dance,Flamenco
+Dancing,3078,5,"Jazz dancing, general",Jazz
+Dancing,3080,10,"Musical Theater, Singing/dancing",Musical
+Dancing,3085,6,"Polynesian dance, Hawaiian hula slow, Maori haka, Tongan",Polynesian
+Dancing,3086,7,"Polynesian dance, Hawaiian hula fast, Samoan sasa, Fijian style fast, Filipino Tinikling",Polynesian
+Dancing,3087,9,"Polynesian dance, Samoan slap, Tahitian",Polynesian
+Dancing,3090,5,"Salsa Dancing, with partner",Salsa
+Dancing,3091,6,"Salsa dancing, to a video",Salsa
+Dancing,3093,6,"Square Dancing, American Western, country",Square
+Fishing & Hunting,4001,4,"Fishing, general",Fishing
+Fishing & Hunting,4005,5,"Fishing, crab fishing",Fishing
+Fishing & Hunting,4007,4,"Fishing, catching fish with hands",Fishing
+Fishing & Hunting,4010,4,"Fishing related, digging worms, with shovel",Fishing
+Fishing & Hunting,4020,4,Fishing from river bank and walking,Fishing
+Fishing & Hunting,4030,2,"Fishing from boat or canoe, sitting",Fishing
+Fishing & Hunting,4040,4,"Fishing from river bank, standing (Taylor Code 660)",Fishing
+Fishing & Hunting,4050,6,"Fishing in stream, in waders (Taylor Code 670)",Fishing
+Fishing & Hunting,4060,2,"Fishing, ice, sitting",Fishing
+Fishing & Hunting,4061,2,"Fishing, jig or line, standing, general",Fishing
+Fishing & Hunting,4062,4,"Fishing, dip net, setting net and retrieving fish, general",Fishing
+Fishing & Hunting,4063,4,"Fishing, set net, setting net and retrieving fish, general",Fishing
+Fishing & Hunting,4064,3,"Fishing, fishing wheel, setting net and retrieving fish, general",Fishing
+Fishing & Hunting,4065,2,"Fishing with a spear, standing",Fishing
+Fishing & Hunting,4070,3,"Hunting, bow and arrow or crossbow",Hunting
+Fishing & Hunting,4080,6,"Hunting, deer, elk, large game (Taylor Code 170)",Hunting
+Fishing & Hunting,4081,10,"Hunting large game, dragging carcass",Hunting
+Fishing & Hunting,4083,4,Hunting large marine animals,Hunting
+Fishing & Hunting,4085,3,"Hunting, large game from a hunting stand, limited walking",Hunting
+Fishing & Hunting,4086,2,"Hunting large game from a car, plane, or boat",Hunting
+Fishing & Hunting,4090,3,"Hunting, duck, wading",Hunting
+Fishing & Hunting,4095,3,"Hunting flying fox, squirrel",Hunting
+Fishing & Hunting,4100,5,"Hunting, general",Hunting
+Fishing & Hunting,4110,6,"Hunting, pheasants or grouse (Taylor Code 680)",Hunting
+Fishing & Hunting,4115,3,Hunting birds,Hunting
+Fishing & Hunting,4120,5,"Hunting, rabbit, squirrel, prairie chick, raccoon, small game (Taylor Code 690)",Hunting
+Fishing & Hunting,4123,3,"Hunting pigs, wild",Hunting
+Fishing & Hunting,4124,2,"Trapping game, general",Hunting
+Fishing & Hunting,4125,10,Hunting – hiking with hunting gear,Hunting
+Fishing & Hunting,4130,3,"Pistol shooting or trap shooting, standing",Hunting
+Fishing & Hunting,4140,2,"Rifle exercises, shooting, lying down",Exercises
+Fishing & Hunting,4145,3,"Rifle exercises, shooting, kneeling or standing",Exercises
+Fishing & Hunting,4150,3,"Foraging, 0-9,9kg backpack",Exercises
+Fishing & Hunting,4152,3,"Foraging, 10-15kg backpack",Exercises
+Fishing & Hunting,4160,1,"Sitting in boat, passenger",Boat
+Fishing & Hunting,4164,2,Standing in boat,Boat
+Fishing & Hunting,4168,3,"Activities in a boat, lifting, lowering",Boat
+Law & Garden,8009,4,"Carrying, loading or stacking wood, loading/unloading or carrying lumber, light-to- moderate effort",Carrying
+Law & Garden,8010,6,"Carrying, loading or stacking wood, loading/unloading or carrying lumber, moderate effort",Carrying
+Law & Garden,8019,5,"Chopping wood, splitting logs, moderate effort",Chopping
+Law & Garden,8020,7,"Chopping wood, splitting logs, vigorous effort",Chopping
+Law & Garden,8025,4,"Clearing light brush, thinning garden, moderate effort",Clearing
+Law & Garden,8030,6,"Clearing land, haul brush, undergrowth, or ground, vigorous effort",Clearing
+Law & Garden,8040,5,"Digging sandbox, shoveling sand",Digging
+Law & Garden,8045,4,"Digging, spading, filling garden, composting, light-to-moderate effort",Digging
+Law & Garden,8050,5,"Digging, spading, filling garden, composting (Taylor Code 590)",Digging
+Law & Garden,8052,7,"Digging, spading, filling garden, composting, vigorous effort",Digging
+Law & Garden,8055,3,Driving tractor,Driving
+Law & Garden,8057,8,"Felling trees, large size",Felling
+Law & Garden,8058,5,"Felling trees, small-medium size",Felling
+Law & Garden,8060,6,"Gardening with heavy power tools, using chain saw, tilling a garden",Gardening
+Law & Garden,8066,2,"gardening, general",Gardening
+Law & Garden,8070,4,"Irrigation channels, opening and closing ports",Irrigation
+Law & Garden,8080,6,Laying crushed rock or gravel,Laying
+Law & Garden,8090,5,Laying sod,Laying
+Law & Garden,8095,6,"Mowing lawn, general, walking, moderate effort",Mowing
+Law & Garden,8100,3,"Mowing lawn, riding mower (Taylor Code 550)",Mowing
+Law & Garden,8110,6,"Mowing lawn, hand mower, vigorous effort (Taylor Code 570)",Mowing
+Law & Garden,8120,5,"Mowing lawn, walk, power mower,  moderate or vigorous effort",Mowing
+Law & Garden,8125,5,"Mowing lawn, power mower, light or moderate effort (Taylor Code 590)",Mowing
+Law & Garden,8130,3,"Operating snow blower, walking",Mowing
+Law & Garden,8135,3,"Planting, potting, transplanting seedlings or plants, light effort",Planting
+Law & Garden,8140,4,"Planting seedlings, shrubs, stooping, moderate effort",Planting
+Law & Garden,8145,4,"Planting crops or garden, stooping, moderate effort",Planting
+Law & Garden,8150,5,Planting trees,Planting
+Law & Garden,8160,4,"Raking lawn or leaves, moderate effort",Raking
+Law & Garden,8165,4,Raking lawn (Taylor Code 600),Raking
+Law & Garden,8170,4,Raking roof with snow rake,Raking
+Law & Garden,8180,3,Riding snow blower,Riding
+Law & Garden,8190,4,"Sacking grass, leaves",Sacking
+Law & Garden,8192,6,Shoveling dirt or mud,Shoveling
+Law & Garden,8195,5,"Shoveling snow, by hand, moderate effort",Shoveling
+Law & Garden,8200,6,"Shoveling snow, by hand (Taylor Code 610)",Shoveling
+Law & Garden,8202,8,"Shoveling snow, by hand, vigorous effort",Shoveling
+Law & Garden,8210,4,"Trimming shrubs or trees, manual cutter",Trimming
+Law & Garden,8215,3,"Trimming shrubs or trees, power cutter, using leaf blower, edger, moderate effort",Trimming
+Law & Garden,8220,3,"Walking, applying fertilizer or seeding a lawn, push applicator",Walking
+Law & Garden,8230,4,"Watering lawn or garden, standing or walking",Watering
+Law & Garden,8239,4,"Weeding, cultivating garden, light-to-moderate effort",Weeding
+Law & Garden,8240,5,"Weeding, cultivating garden, moderate effort (Taylor Code 580)",Weeding
+Law & Garden,8241,5,"Weeding, cultivating garden, using hoe moderate-to-vigorous effort",Weeding
+Law & Garden,8245,4,"Gardening, general, moderate effort",Gardening
+Law & Garden,8246,4,"Picking fruit or coffee from trees, moderate effort",Picking
+Law & Garden,8248,5,"Harvesting Produce, Picking fruit off trees, gleaning fruits, picking fruits/vegetables, climbing ladder to pick fruit, vigorous effort",Harvesting
+Law & Garden,8250,3,"Implied walking/standing – picking up yard, light, picking flowers or vegetables",Walking
+Law & Garden,8251,3,"Walking, gathering gardening tools",Walking
+Law & Garden,8255,5,"Wheel barrow, pushing garden cart or wheelbarrow, general",Wheel
+Law & Garden,8256,6,"Wheel barrow, pushing large garden cart or heavy wheelbarrow up to 150kg",Wheel
+Law & Garden,8260,2,"Yardwork, general, light effort",Yardwork
+Law & Garden,8261,4,"Yardwork, general, moderate effort",Yardwork
+Law & Garden,8262,6,"Yardwork, general, vigorous effort",Yardwork
+Music Playing,10010,2,"Accordion, sitting",Accordion
+Music Playing,10020,2,"Cello, sitting",Cello
+Music Playing,10030,2,"Conducting orchestra, standing",Conducting
+Music Playing,10035,3,"Double bass, standing",Double
+Music Playing,10040,4,"Drums, sitting",Drums
+Music Playing,10045,3,"Drumming (e,g,, bongo, conga, benbe), moderate, sitting",Drumming
+Music Playing,10048,8,"Drumming, concert/live show",Drumming
+Music Playing,10050,2,"Flute, sitting",Flute
+Music Playing,10060,2,"Horn, standing",Horn
+Music Playing,10070,2,"Piano, sitting",Piano
+Music Playing,10074,2,"Playing musical instruments, general",General
+Music Playing,10077,2,"Organ, sitting",Organ
+Music Playing,10080,4,"Trombone, standing",Trombone
+Music Playing,10090,3,"Trumpet, standing",Trumpet
+Music Playing,10100,3,"Violin, sitting",Violin
+Music Playing,10110,2,"Woodwind instruments, sitting",Woodwind
+Music Playing,10115,2,"Brass instruments, sitting",Brass
+Music Playing,10120,2,"Guitar, classical, folk, sitting",Guitar
+Music Playing,10125,3,"Guitar, rock and roll band, standing",Guitar
+Music Playing,10130,4,"Marching band, baton twirling, walking, moderate pace, general",Marching
+Music Playing,10131,6,"Marching band, playing an instrument, walking, brisk pace, general",Marching
+Music Playing,10135,4,"Marching band, drum major, walking",Marching
+Running,12010,6,Jog/walk combination (jogging component of less than 10 minutes) (Taylor Code 180),Jogging
+Running,12020,8,"Jogging, general, self-selected pace",Jogging
+Running,12025,5,"Jogging, in place",Jogging
+Running,12026,3,"Jogging 2,6 to 3,7 mph",Jogging
+Running,12027,5,Jogging on a mini-tramp,Jogging
+Running,12028,7,"Running, 4 to 4,2 mph (13 min/mile)",Controlled Speed
+Running,12029,8,"Running 4,3 to 4,8 mph",Controlled Speed
+Running,12030,9,"Running, 5,0 to 5,2 mph (12 min/mile)",Controlled Speed
+Running,12045,9,"Running, 5,5 -5,8 mph",Controlled Speed
+Running,12050,9,"Running, 6-6,3 mph (10 min/mile)",Controlled Speed
+Running,12060,11,"Running, 6,7 mph (9 min/mile)",Controlled Speed
+Running,12070,11,"Running, 7 mph (8,5 min/mile)",Controlled Speed
+Running,12080,12,"Running, 7,5 mph (8 min/mile)",Controlled Speed
+Running,12090,12,"Running, 8 mph (7,5 min/mile)",Controlled Speed
+Running,12100,13,"Running, 8,6 mph (7 min/mile)",Controlled Speed
+Running,12110,13,"Running, 9 mph (6,5 min/mile)",Controlled Speed
+Running,12115,15,"Running, 9,3 to 9,6 mph",Controlled Speed
+Running,12120,15,"Running, 10 mph (6 min/mile)",Controlled Speed
+Running,12130,17,"Running, 11 mph (5,5 min/mile)",Controlled Speed
+Running,12132,19,"Running, 12 mph (5,0 min/mile)",Controlled Speed
+Running,12134,20,"Running, 13 mph (4,6 min/mile)",Controlled Speed
+Running,12135,23,"Running, 14 mph (4,3 min/mile)",Controlled Speed
+Running,12140,9,"Running, cross country",Controlled Speed
+Running,12145,11,"Running, self-selected pace",Controlled Speed
+Running,12150,8,Running (Taylor Code 200),Controlled Speed
+Running,12170,15,"Running, stairs, up",Controlled Speed
+Running,12180,10,"Running, on a track, team practice",Controlled Speed
+Running,12184,18,"Running, on track, 500-1500m, competitive",Controlled Speed
+Running,12186,19,"Running, on track, 2000-3000m, competitive",Controlled Speed
+Running,12190,8,"Running, training, pushing a wheelchair or baby carrier",Controlled Speed
+Running,12200,13,"Running, marathon",Controlled Speed
+Running,12255,10,"Running uphill, 4,5mph, 5% incline",Controlled Speed
+Running,12260,13,"Running uphill, 6,0 mph, 5% incline",Controlled Speed
+Running,12265,16,"Running uphill, 7,0 mph, 5% incline",Controlled Speed
+Running,12325,18,"Running uphill, 5,0 to 5,9 mph, 15% incline",Controlled Speed
+Running,12335,9,"Running uphill, 0,6 to 0,79 mph, 30% incline",Controlled Speed
+Running,12337,10,"Running uphill, 0,8 to 0,99 mph, 30% incline",Controlled Speed
+Running,12339,12,"Running uphill, 1,0 to 1,19 mph, 30% incline",Controlled Speed
+Running,12341,14,"Running uphill, 1,2 to 1,39 mph, 30-40% incline",Controlled Speed
+Running,12343,15,"Running uphill, 1,4 to 1,59 mph, 30% incline",Controlled Speed
+Running,12345,16,"Running uphill, >1,6mph, 10-30% incline",Controlled Speed
+Running,12350,16,"Running, hilly terrain, ±100m change in elevation",Controlled Speed
+Running,12352,6,"Running downhill, 5,0 to 5,9 mph, -10% to -15%",Controlled Speed
+Running,12353,8,"Running downhill, 6,0 to 6,9 mph, -10% to -15%",Controlled Speed
+Running,12355,9,"Running downhill, 7,0 to 8,9 mph, -10% to -15%",Controlled Speed
+Running,12358,9,"Running downhill, 6,0 to 7,9 mph, -3% to -9%",Controlled Speed
+Running,12361,14,"Running downhill, 8,0 to 10,5 mph, -3% to -9%",Controlled Speed
+Running,12405,5,"Running/jogging, curved treadmill, 3,0 to 3,9 mph",Controlled Speed
+Running,12408,7,"Running/jogging, curved treadmill, 4,0 to 4,9 mph",Controlled Speed
+Running,12410,11,"Running curved treadmill, 5,0 to 5,9 mph",Controlled Speed
+Running,12412,12,"Running curved treadmill, 7,0 to 7,9 mph",Controlled Speed
+Running,12414,14,"Running curved treadmill, 8,0 to 8,9 mph",Controlled Speed
+Running,12416,17,"Running curved treadmill, 9,0 to 9,9 mph",Controlled Speed
+Running,12508,9,"Running, 5,0 – 5,9 mph, 1,0 to 3,0 kg backpack",Controlled Speed
+Running,12510,10,"Running, 6,0 – 6,9 mph, 1,0 to 3,0 kg backpack",Controlled Speed
+Running,12512,10,"Running, 7,0 – 7,9 mph, 1,0 to 3,0 kg backpack",Controlled Speed
+Running,12514,12,"Running, 8,0 – 8,9 mph, 1,0 to 3,0 kg backpack",Controlled Speed
+Running,12555,8,"Running, barefoot, 3,5-5,9 mph",Controlled Speed
+Running,12560,12,"Running, barefoot, 6,0-7,9 mph",Controlled Speed
+Running,12565,14,"Running, barefoot, 8,0-8,9 mph",Controlled Speed
+Running,12585,8,"Running, jogging stroller, indoors, 5 mph",Controlled Speed
+Running,12588,9,"Running, jogging stroller, indoors, 6 mph",Controlled Speed
+Running,12593,10,"Running, jogging stroller, outdoors, 5 mph",Controlled Speed
+Running,12595,12,"Running, jogging stroller, outdoors, 6 mph",Controlled Speed
+Running,12600,12,"Skipping, 5,5-6,0 mph",Controlled Speed
+Running,12620,13,"Triathlon, Running",Triathlon
+Sports,15000,6,"Alaska Native Games, Eskimo Olympics, general",General
+Sports,15010,4,Archery (non-hunting),Archery
+Sports,15020,7,"Badminton, competitive (Taylor Code 450)",Badminton
+Sports,15025,9,"Badminton, competitive, match play",Badminton
+Sports,15030,6,"Badminton, social singles and doubles, general",Badminton
+Sports,15040,8,"Basketball, game (Taylor Code 490)",Basketball
+Sports,15050,6,"Basketball, non-game, general (Taylor Code 480)",Basketball
+Sports,15055,8,"Basketball, general",Basketball
+Sports,15060,7,"Basketball, officiating (Taylor Code 500)",Basketball
+Sports,15062,6,"Basketball, officiating",Basketball
+Sports,15070,5,"Basketball, shooting baskets",Basketball
+Sports,15072,9,"Basketball, drills, practice",Basketball
+Sports,15080,3,Billiards,Billiards
+Sports,15090,3,Bowling (Taylor Code 390),Bowling
+Sports,15092,4,"Bowling, indoor, bowling alley",Bowling
+Sports,15100,12,"Boxing, in ring, general",Boxing
+Sports,15110,6,"Boxing, punching bag",Boxing
+Sports,15113,7,"Boxing, punching bag, 60 b/min",Boxing
+Sports,15115,9,"Boxing, punching bag, 120 b/min",Boxing
+Sports,15118,11,"Boxing, punching bag, 180 b/min",Boxing
+Sports,15120,8,"Boxing, sparring",Boxing
+Sports,15125,9,"Boxing, simulated boxing round, exercise",Boxing
+Sports,15130,7,Broomball,Broomball
+Sports,15135,6,"Children’s games, adults playing  (e,g,, hopscotch, 4-square, dodge ball, playground apparatus, t-ball,  tetherball, marbles, jacks, arcade games), moderate effort",Children’s
+Sports,15138,6,"Cheerleading, gymnastic moves, competitive",Cheerleading
+Sports,15140,4,"Coaching, football, soccer, basketball, baseball, swimming, etc,",Coaching
+Sports,15142,8,"Coaching, actively playing sport with players",Coaching
+Sports,15150,5,"Cricket, batting, bowling, fielding",Cricket
+Sports,15160,3,Croquet,Croquet
+Sports,15170,4,Curling,Curling
+Sports,15180,3,"Darts, wall or lawn",Darts
+Sports,15190,6,"Drag racing, pushing or driving a car",Drag
+Sports,15192,9,"Auto racing, open wheel",Auto
+Sports,15195,8,Futsal,Futsal
+Sports,15200,6,"Fencing, general",Fencing
+Sports,15203,10,"Fencing, epee, competitive",Fencing
+Sports,15205,11,Floorball,Floorball
+Sports,15210,8,"Football, competitive",Football
+Sports,15230,8,"Football, touch, flag, general (Taylor Code 510)",Football
+Sports,15232,4,"Football, touch, flag, light effort",Football
+Sports,15235,3,"Football or baseball, playing catch",Football
+Sports,15240,3,"Frisbee playing, general",Frisbee
+Sports,15250,8,"Frisbee, ultimate",Frisbee
+Sports,15252,4,Frisbee golf,Frisbee
+Sports,15255,5,"Golf, general",Golf
+Sports,15265,4,"Golf, walking, carrying clubs",Golf
+Sports,15270,4,"Golf, miniature, driving range",Golf
+Sports,15285,5,"Golf, walking, pulling clubs",Golf
+Sports,15290,4,"Golf, using power cart (Taylor Code 070)",Golf
+Sports,15300,4,"Gymnastics, general",Gymnastics
+Sports,15310,4,Hacky sack,Hacky
+Sports,15320,12,"Handball, general (Taylor Code 520)",Handball
+Sports,15330,8,"Handball, team",Handball
+Sports,15335,4,"High ropes course, multiple elements",High
+Sports,15340,4,Hang gliding,Hang
+Sports,15350,8,"Hockey, field",Hockey
+Sports,15360,8,"Hockey, ice, general",Hockey
+Sports,15362,10,"Hockey, ice, competitive",Hockey
+Sports,15370,6,"Horseback riding, general",Horseback
+Sports,15380,5,"Horse grooming, maintenance, saddling tasks",Horse
+Sports,15390,6,"Horseback riding, trotting",Horseback
+Sports,15395,7,"Horseback riding, canter or gallop",Horseback
+Sports,15400,4,"Horseback riding, walking",Horseback
+Sports,15402,9,"Horseback riding, jumping",Horseback
+Sports,15403,6,"Horseback riding, reining",Horseback
+Sports,15406,2,"Horseback riding, simulator",Horseback
+Sports,15408,2,"Horse cart, driving, standing or sitting",Horse
+Sports,15410,3,"Horseshoe pitching, quoits",Horseshoe
+Sports,15420,12,Jai alai,Jai
+Sports,15425,5,"Martial Arts, different types, slower pace, novice performers, practice",Martial
+Sports,15430,10,"Martial Arts, different types, moderate pace (e,g,, judo, jujitsu, karate, kick boxing, tae kwon do, tai-bo, Muay Thai boxing)",Martial
+Sports,15432,14,"Taekwondo, combat simulation",Taekwondo
+Sports,15433,11,Judo,Judo
+Sports,15440,4,Juggling,Juggling
+Sports,15444,7,"Kendo, kihon-keiko style, moderate intensity",Kendo
+Sports,15445,10,"Kendo, kirikaeshi style, high intensity",Kendo
+Sports,15446,11,"Kendo, kakari keiko style, very high intensity",Kendo
+Sports,15450,7,Kickball,Kickball
+Sports,15455,6,Kung Fu Gymnastics,Kung
+Sports,15457,7,Kickboxing,Kickboxing
+Sports,15460,8,Lacrosse,Lacrosse
+Sports,15465,3,"Lawn bowling, bocce ball, outdoor",Lawn
+Sports,15470,4,"Motocross, off-road motor sports, all-terrain vehicle, general",Motocross
+Sports,15475,5,"Motorcycle racing, Supormoto racing",Motorcycle
+Sports,15477,7,Netball,Netball
+Sports,15480,9,Orienteering,Orienteering
+Sports,15490,10,"Paddleball, competitive",Paddleball
+Sports,15500,6,"Paddleball, casual, general (Taylor Code 460)",Paddleball
+Sports,15503,2,"Paragliding, moderate altitude",Paragliding
+Sports,15506,7,Prusik climbing,Prusik
+Sports,15510,8,"Polo, on horseback",Polo
+Sports,15520,10,"Racquetball, competitive",Racquetball
+Sports,15525,10,"Race Walking, 3,1 m/s (6,9 mph)",Race
+Sports,15527,14,"Race Walking, 3,7 m/s (8,3 mph)",Race
+Sports,15528,16,"Race Walking, racing speed, 4,0 m/s (8,95 mph)",Race
+Sports,15530,7,"Racquetball, general (Taylor Code 470)",Racquetball
+Sports,15533,8,"Rock or mountain climbing (Taylor Code 060), (formerly code 17120)",Rock
+Sports,15534,9,"Rock climbing, free boulder",Rock
+Sports,15535,7,"Rock climbing, ascending rock, high difficulty",Rock
+Sports,15536,11,"Rock climbing, speed climbing, very difficult",Rock
+Sports,15537,6,"Rock climbing, ascending or traversing rock, low-to-moderate difficulty",Rock
+Sports,15538,11,"Rock climbing, treadwall, 4-6 m/min",Rock
+Sports,15539,11,"Rock climbing, treadwall, 7-10 m/min",Rock
+Sports,15540,5,"Rock climbing, rappelling,",Rock
+Sports,15542,4,"Rodeo sports, general, light effort",Rodeo
+Sports,15544,6,"Rodeo sports, general, moderate effort",Rodeo
+Sports,15546,7,"Rodeo sports, general, vigorous effort",Rodeo
+Sports,15550,12,"Rope jumping, fast pace, 120-160 skips/min",Rope
+Sports,15551,12,"Rope jumping, moderate pace, general, 100 to 120 skips/min, 2 foot skip, plain bounce",Rope
+Sports,15552,8,"Rope jumping, slow pace, < 100 skips/min, 2 foot skip, rhythm bounce",Rope
+Sports,15554,10,"Rope jumping, double under or more",Rope
+Sports,15560,8,"Rugby, union, team, competitive",Rugby
+Sports,15562,6,"Rugby, touch, non-competitive",Rugby
+Sports,15570,3,Shuffleboard,Shuffleboard
+Sports,15580,5,"Skateboarding, general, moderate effort",Skateboarding
+Sports,15582,6,"Skateboarding, competitive, vigorous effort",Skateboarding
+Sports,15590,7,"Skating, roller (Taylor Code 360)",Skating
+Sports,15591,8,"Roller blading, in-line skating, 14,4 km/h (9,0 mph), recreational pace",Roller
+Sports,15592,10,"Roller blading, in-line skating, 17,7 km/h (11,0 mph), moderate pace, exercise training",Roller
+Sports,15593,12,"Roller blading, in-line skating, 21,0 to 21,7 km/h (13,0 to 13,6 mph), fast pace, exercise training",Roller
+Sports,15594,16,"Rollerblading, in-line skating, 24,0 km/h (15,0 mph), maximal effort",Rollerblading
+Sports,15595,7,"Skateboard, longboard, 13,3 km/h, slow speed",Skateboard
+Sports,15596,8,"Skateboard, longboard, 16,2 km/h, typical speed",Skateboard
+Sports,15597,11,"Skateboard, longboard, 18,4 km/h, fast speed",Skateboard
+Sports,15600,4,"Skydiving, base-jumping, bungee jumping",Skydiving
+Sports,15605,10,"Soccer, competitive",Soccer
+Sports,15610,7,"Soccer, casual, general (Taylor Code 540)",Soccer
+Sports,15615,4,Walking football/soccer,Soccer
+Sports,15620,5,"Softball or baseball, fast or slow pitch, general, moderate effort (Taylor Code 440)",Softball
+Sports,15625,4,"Softball, practice",Softball
+Sports,15630,4,"Softball, officiating",Softball
+Sports,15640,6,"Softball, pitching",Softball
+Sports,15645,3,"Sports spectator, very excited, emotional, physically moving",Spectator
+Sports,15650,12,Squash (Taylor Code 530),Squash
+Sports,15652,7,"Squash, general",Squash
+Sports,15660,4,"Table tennis, ping pong (Taylor Code 410)",Table
+Sports,15670,3,"Tai chi, qi gong, general",Tai
+Sports,15672,2,"Tai chi, qi gong, sitting, light effort",Tai
+Sports,15674,6,"Tai chi chuan, Yang style",Tai
+Sports,15675,7,"Tennis, general, moderate effort",Tennis
+Sports,15676,8,"Tennis, general, competitive",Tennis
+Sports,15680,6,"Tennis, doubles (Taylor Code 430)",Tennis
+Sports,15685,5,"Tennis, doubles",Tennis
+Sports,15690,8,"Tennis, singles (Taylor Code 420)",Tennis
+Sports,15695,5,"Tennis, hitting balls, non-game play, moderate effort",Tennis
+Sports,15700,6,"Trampoline, recreational",Trampoline
+Sports,15702,10,"Trampoline, competitive",Trampoline
+Sports,15710,4,Volleyball (Taylor Code 400),Volleyball
+Sports,15711,6,"Volleyball, competitive, in gymnasium",Volleyball
+Sports,15720,3,"Volleyball, non-competitive, 6 – 9 member team, general",Volleyball
+Sports,15725,8,"Volleyball, beach, in sand",Volleyball
+Sports,15730,6,"Wrestling, competitive (one match = 5 minutes)",Wrestling
+Sports,15731,7,"Wallyball, general",Wallyball
+Sports,15732,4,"Track and field (e,g,, shot, discus, hammer throw)",Track
+Sports,15733,6,"Track and field (e,g,, high jump, long jump, triple jump, javelin, pole vault)",Track
+Sports,15734,10,"Track and field (e,g,, steeplechase, hurdles)",Track
+Walking,17010,7,Backpacking (Taylor Code 050),Hauling
+Walking,17011,4,"Walking with a day pack, level ground, assumed in the city",Hauling
+Walking,17012,8,"Backpacking,  hiking with a daypack, organized walking with daypack",Hauling
+Walking,17016,4,"Carrying 5 to 14 lb (2,3 to 6,4 kg) load (e,g, suitcase, boxes, groceries), level ground, moderate pace",Hauling
+Walking,17018,5,"Carrying 15 – 155 lb (6,8 – 70,4 kg) load (e,g, suitcase, boxes, furniture), level ground or downstairs, slow pace",Hauling
+Walking,17019,7,"Carrying 50 to 150 pound load (e,g,, equine or bovine feed, fence pipes, furniture), level ground, moderate pace",Hauling
+Walking,17021,2,"Carrying ~10 lb child, slow walking",Hauling
+Walking,17025,8,"Carrying load upstairs, general",Hauling
+Walking,17026,6,"Carrying load, 1 to 15 lb load, upstairs",Hauling
+Walking,17027,6,"Carrying load, 16 to 24 lb load, upstairs",Hauling
+Walking,17028,8,"Carrying load, 25 to 49 lb load, upstairs",Hauling
+Walking,17029,10,"Carrying load, 50 to 74 lb load, upstairs",Hauling
+Walking,17030,12,"Carrying load, >74 lb load, upstairs",Hauling
+Walking,17031,4,"Loading  and/or unloading a car, implied walking",Hauling
+Walking,17032,5,"Climbing hills, no load, 5 to 20% grade, very slow pace",Climbing
+Walking,17033,4,"Climbing hills, 15-50 lb load, 1 to 2% grade, slow pace",Climbing
+Walking,17034,5,"Climbing hills, no load, 1 to 5% grade, moderate-to-brisk pace",Climbing
+Walking,17035,7,"Climbing hills, no load, 6 to 10% grade, moderate-to-brisk pace",Climbing
+Walking,17036,9,"Climbing hills, no load, 11 to 20% grade, slow-to-moderate pace",Climbing
+Walking,17037,10,"Climbing hills, no load, 4,0 to 5,0 mph, 3 to 5% grade, very fast pace",Climbing
+Walking,17038,9,"Climbing hills, no load, steep grade (30%), slow pace (less than 1,2 mph)",Climbing
+Walking,17039,16,"Climbing hills, no load, very steep grade (30-40%), 1,2 to 1,8 mph",Climbing
+Walking,17040,16,"Climbing hills, no load, steep grade (10-40%), 1,8 to 5,0 mph",Climbing
+Walking,17045,7,"Climbing hills, 10 to 20 lb load, 5 to 10% grade, moderate",Climbing
+Walking,17050,8,"Climbing hills, 21 to 40 lb load, 3 to 10% grade, moderate-to-brisk pace",Climbing
+Walking,17060,10,"Climbing hills, 20+ pound load, 5 to 20% grade, moderate to brisk pace",Climbing
+Walking,17070,4,Descending stairs,Stairs
+Walking,17076,5,"Hauling water, head hauling, walking on flat surface",Hauling
+Walking,17080,6,"Hiking, cross country (Taylor Code 040)",Hiking
+Walking,17081,4,"Hiking slowly or ambling through fields and hillsides, no load",Hiking
+Walking,17082,5,"Hiking or walking at a normal pace through fields and hillsides, no load",Hiking
+Walking,17085,3,"Bird watching, walking and stopping",Hiking
+Walking,17088,5,"Marching, moderate speed, military, no pack",Hiking
+Walking,17090,8,"Marching rapidly, military, no pack",Hiking
+Walking,17100,4,"Pushing or pulling stroller with child or walking with children, 2,5 to 3,1 mph",Hiking
+Walking,17105,4,"Pushing a wheelchair, non-occupational",Hiking
+Walking,17110,7,Race walking,Hiking
+Walking,17130,8,"Stair climbing, using or climbing up ladder (Taylor Code 030)",Stairs
+Walking,17131,7,"Stair climbing, general",Stairs
+Walking,17133,5,"Stair climbing, slow pace",Stairs
+Walking,17134,9,"Stair climbing, fast pace, one step at a time",Stairs
+Walking,17136,8,"Stair climbing, two steps at a time",Stairs
+Walking,17138,8,"Stair climbing, ascending and descending stairs",Stairs
+Walking,17140,5,"Using crutches, level ground, general",Medical
+Walking,17142,7,"Using crutches, fast pace",Medical
+Walking,17145,4,Using medical knee scooter,Medical
+Walking,17150,2,"Walking, household",General Walking
+Walking,17151,2,"Walking, less than 2,0 mph, level, strolling, very slow",General Walking
+Walking,17152,3,"Walking, 2,0 to 2,4 mph, level, slow pace, firm surface",General Walking
+Walking,17160,4,Walking for pleasure (Taylor Code 010),General Walking
+Walking,17161,3,"Walking from house to car or bus, from car or bus to go places, from car or bus to and from the worksite",General Walking
+Walking,17162,3,Walking to neighbor’s house or family’s house for social reasons,General Walking
+Walking,17165,3,Walking the dog,General Walking
+Walking,17170,3,"Walking, 2,5 mph, firm, level surface",General Walking
+Walking,17180,3,"Walking, 2,5 mph, downhill",General Walking
+Walking,17190,4,"Walking, 2,8 to 3,4 mph, level, moderate pace, firm surface",General Walking
+Walking,17200,5,"Walking, 3,5 to 3,9 mph, level, brisk, firm surface, walking for exercise",General Walking
+Walking,17220,6,"Walking, 4,0 to 4,4 mph (6,4 to 7,0 km/h), level, firm surface, very brisk pace",General Walking
+Walking,17230,7,"Walking, 4,5 to 4,9 mph, level, firm surface, very, very brisk",General Walking
+Walking,17231,9,"Walking, 5,0 to 5,5 mph (8,8 to 8,9 km/h), level, firm surface",General Walking
+Walking,17250,4,"Walking, for pleasure, work break (Taylor Code xxx)",General Walking
+Walking,17255,4,"Walking, self-selected speed, indoor track or outdoors, firm surface",General Walking
+Walking,17260,5,"Walking, grass track",General Walking
+Walking,17262,5,"Walking, normal pace, plowed field or sand",General Walking
+Walking,17270,4,"Walking, to work or class (Taylor Code 015)",General Walking
+Walking,17280,3,"Walking, to and from an outhouse",General Walking
+Walking,17302,4,"Walking, for exercise, 2,5 to 3,5 mph (4,0 to 5,6 km/h), with ski poles, Nordic walking, level, moderate pace",General Walking
+Walking,17304,5,"Walking, for exercise, 3,6 to 4,4 mph (5,8 to 7,1 km/h), with ski poles, Nordic walking, level, moderate pace",General Walking
+Walking,17305,9,"Walking, for exercise, 4,5 to 5,0 mph, with ski poles, Nordic walking, level, fast pace",General Walking
+Walking,17310,9,"Walking, for exercise, with ski poles, Nordic walking, uphill, moderate pace",General Walking
+Walking,17313,11,"Walking, for exercise, with ski poles, Nordic walking, level ground, carrying 20 to 30 lb load (9,0 to 15,0 kg)",General Walking
+Walking,17315,12,"Walking, for exercise, with ski poles, Nordic walking, uphill, carrying 20 to 30 lb load (9,0 to 15,0 kg)",General Walking
+Walking,17320,6,"Walking, backward, 3,5 mph, level",General Walking
+Walking,17325,8,"Walking, backward, 3,5 mph, uphill, 5% grade",General Walking
+Walking,17330,8,"Walking, Teabag walk, Monty Python Ministry of Silly Walks",General Walking
+Walking,17332,4,"Walking, Putey walk, Monty Python Ministry of Silly Walks",General Walking
+Walking,17340,2,"Walking, treadmill, less than 1,0 mph, 0% grade",Treadmill
+Walking,17343,2,"Walking, treadmill, 1,0 mph, 0% grade",Treadmill
+Walking,17346,3,"Walking, treadmill, 1,2 to 1,9 mph, 0% grade (1,9 to 3,0 km/h)",Treadmill
+Walking,17349,3,"Walking, treadmill, 2,0 to 2,4 mph (3,2 to 3,9 km/h), 0% grade",Treadmill
+Walking,17352,4,"Walking, treadmill, 2,5 to 2,9 mph (4,0 to 4,7 km/h), 0% grade",Treadmill
+Walking,17355,4,"Walking, treadmill, 3,0 to 3,4 mph (4,8 to 5,5 km/h), 0% grade",Treadmill
+Walking,17358,5,"Walking, treadmill, 3,5 to 3,9 mph (5,6 to 6,3 km/h), 0% grade",Treadmill
+Walking,17361,6,"Walking, treadmill, 4,0 to 4,4 mph (6,4 to 7,1 km/h), 0% grade",Treadmill
+Walking,17364,7,"Walking, treadmill, 4,5 to 4,9 mph (7,2 to 7,9 km/h), 0% grade",Treadmill
+Walking,17367,8,"Walking, treadmill, 5,0 to 5,5 mph (8,0 to 8,9 km/h), 0% grade",Treadmill
+Walking,17382,3,"Walking, treadmill, downhill (-3% to -12% grade), 2,8 to 3,1 mph",Treadmill
+Walking,17412,3,"Walking, treadmill, downhill (-5% to -25% grade), 2,8 mph, with Nordic Poles",Treadmill
+Walking,17434,5,"Walking, treadmill, 2,5 mph, 0% grade, 5 to 20 degrees C, 40 lb (18,2 kg) load",Treadmill
+Walking,17438,6,"Walking, treadmill, 2,5 mph, 0% grade, -10 to 0 degrees C, 40 lb (18,2 kg) load",Treadmill
+Walking,17455,8,"Walking, Curved treadmill, 3,0 to 5,0 mph, brisk pace",Treadmill
+Walking,17475,8,"Walking treadmill, backwards, 2,5 mph, +10% grade",Treadmill
+Walking,17492,2,"Walking, with a walker or step-to gait on treadmill, 0,7 mph (1,1 km/h), 0% grade",Treadmill
+Water Activities,18010,3,"Boating, power, driving",Boating
+Water Activities,18012,1,"Boating, power, passenger, light",Boating
+Water Activities,18020,4,"Canoeing, on camping trip (Taylor Code 270)",Boating
+Water Activities,18025,3,"Canoeing, harvesting wild rice, knocking rice off the stalks",Boating
+Water Activities,18030,7,"Canoeing, portaging",Boating
+Water Activities,18040,3,"Canoeing, rowing, 2,0-3,9 mph, light effort",Boating
+Water Activities,18050,6,"Canoeing, rowing, 4,0-5,9 mph, moderate effort",Boating
+Water Activities,18060,13,"Canoeing, rowing, kayaking, competition, > 6 mph, vigorous effort",Boating
+Water Activities,18070,4,"Canoeing, rowing, for pleasure, general (Taylor Code 250)",Boating
+Water Activities,18080,12,"Canoeing or rowing, in competition, crew or sculling (Taylor Code 260)",Boating
+Water Activities,18090,3,"Diving, springboard or platform",Diving
+Water Activities,18100,5,"Kayaking, moderate effort",Boating
+Water Activities,18104,14,"kayaking, competition",Boating
+Water Activities,18106,9,"kayaking, slalom, flat water",Boating
+Water Activities,18110,4,Paddle boat,Boating
+Water Activities,18112,16,"Rowing, simulated crew in a water tank, single oar, 33 strokes/min,",Boating
+Water Activities,18114,16,"Rowing, single scull, ergometer, ergometer on slides, racing speed (32+ strokes/min, >10 mph)",Boating
+Water Activities,18120,3,"Sailing, boat and board sailing, windsurfing, ice sailing, general (Taylor Code 235)",Boating
+Water Activities,18130,5,"Sailing, in competition, general ",Boating
+Water Activities,18132,9,"Sailing, in competition, high effort",Boating
+Water Activities,18140,3,"Sailing, Sunfish/Laser/Hobby Cat, Keel boats, ocean sailing, yachting, leisure",Boating
+Water Activities,18142,2,"Sailing, dingy",Boating
+Water Activities,18150,6,"Skiing, water or wake boarding (Taylor Code 220)",General
+Water Activities,18160,7,"Jet skiing, driving, in water",Jet
+Water Activities,18180,16,"Skindiving, fast",Jet
+Water Activities,18190,12,"Skindiving, moderate",General
+Water Activities,18200,7,"Skindiving, scuba diving, general (Taylor Code 310)",General
+Water Activities,18202,5,"Scuba diving, general, light effort",Scuba
+Water Activities,18204,6,"Scuba diving, general, moderate effort",Scuba
+Water Activities,18206,6,"Scuba diving, professional diver",Scuba
+Water Activities,18208,7,"Scuba diving, recreational diver",Scuba
+Water Activities,18210,5,Snorkeling (Taylor Code 320),Scuba
+Water Activities,18220,3,"Surfing, body or board, general",Surfing
+Water Activities,18221,7,"Surfboard, paddling",Surfing
+Water Activities,18222,5,"Surfing, body or board, competitive",Surfing
+Water Activities,18224,7,"Stand up paddle boarding, general",Surfing
+Water Activities,18225,3,"Stand up Paddleboard, standing, 10-19 strokes/min",Surfing
+Water Activities,18226,4,"Stand up Paddleboard, standing, 20-29 strokes/min",Surfing
+Water Activities,18227,5,"Stand up Paddleboard, standing, 30-39 strokes/min",Surfing
+Water Activities,18228,10,"Stand up Paddleboard, standing, 40-49 strokes/min",Surfing
+Water Activities,18229,11,"Stand up Paddleboard, standing, 50-69 strokes/min",Surfing
+Water Activities,18230,10,"Swimming laps, freestyle, fast, vigorous effort",Swimming
+Water Activities,18240,6,"Swimming laps, freestyle, slow, recreational",Swimming
+Water Activities,18250,10,"Swimming, backstroke, training or competition",Swimming
+Water Activities,18255,5,"Swimming, backstroke, recreational",Swimming
+Water Activities,18260,10,"Swimming, breaststroke, general, training or  competition",Swimming
+Water Activities,18265,5,"Swimming breaststroke, recreational",Swimming
+Water Activities,18270,14,"Swimming, butterfly, general",Swimming
+Water Activities,18280,11,"Swimming, crawl, fast speed, ~75 yards/minute,  vigorous effort",Swimming
+Water Activities,18285,11,"Swimming, open water, 5k",Swimming
+Water Activities,18290,8,"Swimming, crawl, medium speed, ~50 yards/minute, vigorous effort ",Swimming
+Water Activities,18292,6,"Swimming, crawl, slow speed, 30-45 yards/minute, moderate effort ",Swimming
+Water Activities,18294,15,"Swimming, crawl, elite swimmers, competition, >90 yards/minute",Swimming
+Water Activities,18300,6,"Swimming, lake, ocean, river (Taylor Codes 280,  295)",Swimming
+Water Activities,18310,6,"Swimming, leisurely, not lap swimming, general",Swimming
+Water Activities,18320,7,"Swimming, sidestroke, general",Swimming
+Water Activities,18330,8,"Swimming, synchronized",Swimming
+Water Activities,18340,10,"Swimming, treading water, fast, vigorous effort",Swimming
+Water Activities,18350,4,"Swimming, treading water, moderate effort,  general",Swimming
+Water Activities,18352,2,"Tubing, floating on a river, general",Sports
+Water Activities,18355,6,"Water aerobics, water calisthenics, general",Aerobics
+Water Activities,18356,4,"Water aerobics, resistance exercises",Aerobics
+Water Activities,18358,8,"Water aerobics, high intensity",Aerobics
+Water Activities,18360,10,Water polo,Sports
+Water Activities,18365,3,Water volleyball,Sports
+Water Activities,18366,10,"Water jogging, vigorous effort",Water-Running
+Water Activities,18367,3,"Water walking, light effort, slow pace",Water-Running
+Water Activities,18368,5,"Water walking, moderate effort, moderate pace",Water-Running
+Water Activities,18369,7,"Water walking, vigorous effort, brisk pace",Water-Running
+Water Activities,18370,5,"Whitewater rafting, kayaking, or canoeing",Water-Running
+Water Activities,18374,7,"Water running, 30 steps/min, slow",Water-Running
+Water Activities,18375,8,"Water running, 40 steps/min, moderate",Water-Running
+Water Activities,18376,9,"Water running, 50 steps/min, fast",Water-Running
+Water Activities,18377,10,"Water running, 60 steps/min, very fast",Water-Running
+Water Activities,18380,5,"Windsurfing, not pumping for speed",Surfing
+Water Activities,18385,11,"Windsurfing or kitesurfing, crossing trial",Surfing
+Water Activities,18390,14,"Windsurfing, competition, pumping for speed",Surfing
+Water Activities,18404,3,"Aquatic cycling, 25 W, 40-50 RPM",Aquatic-Cycling
+Water Activities,18408,5,"Aquatic cycling, 25 W, 60-70 RPM",Aquatic-Cycling
+Water Activities,18412,4,"Aquatic cycling, 50 W, 40-50 RPM",Aquatic-Cycling
+Water Activities,18416,6,"Aquatic cycling,  50 W, 60-70 RPM",Aquatic-Cycling
+Water Activities,18420,5,"Aquatic cycling, 75 W, 40-50 RPM",Aquatic-Cycling
+Water Activities,18424,6,"Aquatic cycling, 75 W, 60-70 RPM",Aquatic-Cycling
+Water Activities,18428,6,"Aquatic cycling, 100 W, 40-50 RPM",Aquatic-Cycling
+Water Activities,18432,8,"Aquatic cycling, 100 W, 60-70 RPM",Aquatic-Cycling
+Water Activities,18436,9,"Aquatic cycling, 80-89 RPM",Aquatic-Cycling
+Water Activities,18440,10,"Aquatic cycling, 90+ RPM",Aquatic-Cycling
+Winter Activities,19005,8,"Dog sledding, mushing",Sledding
+Winter Activities,19006,3,"Dog sledding, passenger",Sledding
+Winter Activities,19010,6,"Moving icehouse, set up/drill holes",Ice-Fishing
+Winter Activities,19011,2,Ice fishing,Ice-Fishing
+Winter Activities,19018,14,"Skating, ice dancing",Skating
+Winter Activities,19020,6,"Skating, ice, 9 mph or less",Skating
+Winter Activities,19030,7,"Skating, ice, general (Taylor Code 360)",Skating
+Winter Activities,19040,9,"Skating, ice, rapidly, more than 9 mph but not competitive",Skating
+Winter Activities,19045,9,"Skating Treadmill, 6 – 6,9 mph, 2% grade",Skating
+Winter Activities,19046,10,"Skating Treadmill, 7 – 7,9 mph, 2% grade",Skating
+Winter Activities,19047,11,"Skating Treadmill, 8 – 8,9 mph, 2% grade",Skating
+Winter Activities,19048,11,"Skating Treadmill, 9 – 9,9 mph, 2% grade",Skating
+Winter Activities,19050,14,"Skating, speed, competitive",Skating
+Winter Activities,19060,7,"Ski jumping, climb up carrying skis",Ski
+Winter Activities,19075,7,"Skiing, general",Ski
+Winter Activities,19080,7,"Skiing, cross country, 2,5 mph, slow or light effort, ski walking",Ski
+Winter Activities,19090,9,"Skiing, cross country, 4,0-4,9 mph, moderate speed and effort, general",Ski
+Winter Activities,19100,11,"Skiing, cross country, 5,0-7,9 mph, brisk speed, vigorous effort",Ski
+Winter Activities,19110,14,"Skiing, cross country, elite skier, >8,0-11,9 mph, racing",Ski
+Winter Activities,19112,16,"Skiing, cross country, 12-16 mph, elite skier, racing",Ski
+Winter Activities,19115,10,"Skiing, cross-country skiing high-intensity training",Ski
+Winter Activities,19130,16,"Skiing, cross country, hard snow, uphill, maximum, snow mountaineering",Ski
+Winter Activities,19135,13,"Skiing, cross-country, skating",Ski
+Winter Activities,19140,14,"Skiing, cross-country, biathlon, skating technique",Ski
+Winter Activities,19142,13,"Biathlon training, 5 degree incline, 8 km/h (5 mph), with/without rifle",Biathlon
+Winter Activities,19144,13,"Biathlon training, 5 degree incline, 10,7 km/h (5 mph), with/without rifle",Biathlon
+Winter Activities,19146,9,"Skiing, slalom",Ski
+Winter Activities,19150,4,"Skiing, downhill, alpine or snowboarding, light effort, active time only",Ski
+Winter Activities,19160,6,"Skiing, downhill, alpine or snowboarding, moderate effort, general, active time only",Ski
+Winter Activities,19170,8,"Skiing, downhill, alpine or snowboarding, vigorous effort, active time only",Ski
+Winter Activities,19174,7,"Skiing, Alpine skiing high-intensity training",Ski
+Winter Activities,19180,7,"Sledding, tobogganing, bobsledding, luge (Taylor Code 370)",Sledding
+Winter Activities,19190,5,"Snow shoeing, moderate effort",Snow-Shoeing
+Winter Activities,19192,10,"Snow shoeing, vigorous effort",Snow-Shoeing
+Winter Activities,19200,4,"Snowmobiling, driving, moderate pace, flat land",Snowmobile
+Winter Activities,19201,8,"snowboarding, recreational, moderate pace, mountain",Snowmobile
+Winter Activities,19202,2,"Snowmobiling, passenger, light",Snowmobile
+Winter Activities,19252,5,"Snow shoveling, by hand, moderate effort",Shoveling
+Winter Activities,19254,8,"Snow shoveling, by hand, vigorous effort",Shoveling
+Winter Activities,19260,3,"Snow blower, walking and pushing",Shoveling
+Winter Activities,19300,13,"Skiing, roller, elite racers",Ski
+Winter Activities,19305,6,"Rollerskiing, 10 – 12,9 km/h, no incline",Ski
+Winter Activities,19310,7,"Rollerskiing, 13 – 16,9 km/h, no incline",Ski
+Winter Activities,19315,8,"Rollerskiing, 17 – 19,9 km/h, no incline",Ski
+Winter Activities,19320,11,"Rollerskiing, 20 – 23,9 km/h, no incline",Ski
+Winter Activities,19325,15,"Rollerskiing, 24 – 27,9 km/h, no incline",Ski
+Winter Activities,19330,13,"Rollerskiing, 10-15 km/h, 2-5 degree incline",Ski
+Winter Activities,19335,14,"Rollerskiing, 16-22 km/h, 2-5 degree incline",Ski
+Winter Activities,19340,12,"Rollerskiing, 6-9 km/h, 6-10 degree incline",Ski
+Winter Activities,19345,16,"Rollerskiing, >10 km/h, 6-10 degree incline",Ski
+Winter Activities,19400,9,"Mountaineering, downhill climbing, walking down with rope",Mountaineering
+Winter Activities,19405,10,"Mountaineering, downhill climbing/cross-country skiing",Mountaineering
